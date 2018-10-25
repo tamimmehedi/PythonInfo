@@ -2,4 +2,4 @@
 Short for Graphical User Interface, a GUI (pronounced as either G-U-I or gooey) allows 
 the use of icons or other visual indicators to interact with electronic devices, rather
 than using only text via the command line. For example, all versions of Microsoft Windows
-utilize a GUI, whereas MS-DOS does not. 
+utilize a GUI, whereas MS-DOS does not. Python is a good programming language for GUI. 
